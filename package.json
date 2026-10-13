@@ -1,0 +1,11 @@
+{
+  "name": "drawpile-wasm",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  },
+  "dependencies": {
+    "inapp-spy": "^5.0.10",
+    "ua-parser-js": "^2.0.10"
+  }
+}
